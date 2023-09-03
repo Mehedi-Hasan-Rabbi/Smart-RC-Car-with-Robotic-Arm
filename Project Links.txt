@@ -1,0 +1,25 @@
+File name: Localhost servo control
+----------------------------------
+https://www.youtube.com/watch?v=8INz8EbSoYM (footer remove korsi)
+
+File name: Servo Arduino
+------------------------
+https://www.youtube.com/watch?v=ADJGxOrEZAM (Code comment a)
+
+
+File name: Servo_Control_NuttyFi_NodeMCU
+-----------------------------
+https://www.youtube.com/watch?v=WauwiSBxF0Q&t=122s
+
+
+File name: bluetooth_control_voice_obstacle
+-------------------------------------------
+https://www.youtube.com/watch?v=aE_J7B-O4VQ&pp=ygUgYmx1ZXRvb3RoIHZvaWNlIG9ic3RhY2xlIGNvbnRyb2w%3D
+
+
+Alternative videos
+------------------
+https://www.youtube.com/watch?v=d9SqQXtaBUQ
+
+
+
